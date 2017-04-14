@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt0"
+        android:text="OOPS:"
+        android:layout_margin="5dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textAllCaps="true"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt1"
+        android:layout_below="@+id/alt0"
+        android:text="Please Connect to Internet and restart the App to download Data from Server."
+        android:layout_margin="5dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="12dp"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt2"
+        android:text="Database Not Found On Phone."
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/alt1"
+        android:layout_margin="5dp"
+        android:textSize="12dp"
+        android:textAllCaps="true"/>
+
+</RelativeLayout>

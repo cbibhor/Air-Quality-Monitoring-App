@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="centre_bg">#424242</color>
+    <color name="colorCard">#424242</color>
+    <color name="colorCard2">#B71C1C</color>
+    <color name="cardtextcolor">#000000</color>
+    <color name="unitscolor">#424242</color>
+    <color name="tabscolor">#FF8A80</color>
+</resources>
