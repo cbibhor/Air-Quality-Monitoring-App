@@ -1,8 +1,7 @@
 An android application developed for an IoT based Air and Water Quality Monitoring project. Monitoring is done by a device comprising of sensors powered by arduino. Data from device is send to a server using GSM shield. Android app directly downloads data from server for the user to view data.
 
 Application Highlights:
-    Check internet conection of phone and connect to server.
-    Parse data received from server, which is in Json format.
+    Connect to server and receive data.
     Create a local database on phone and save in it using MySQL.
     Send sms to device directly.
     Extract data from sms received from device.
